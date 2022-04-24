@@ -1,0 +1,6 @@
+/home/dima/RiderProjects/Spiral/Spiral/bin/Debug/Spiral.exe
+/home/dima/RiderProjects/Spiral/Spiral/bin/Debug/Spiral.pdb
+/home/dima/RiderProjects/Spiral/Spiral/obj/Debug/Spiral.csprojAssemblyReference.cache
+/home/dima/RiderProjects/Spiral/Spiral/obj/Debug/Spiral.csproj.CoreCompileInputs.cache
+/home/dima/RiderProjects/Spiral/Spiral/obj/Debug/Spiral.exe
+/home/dima/RiderProjects/Spiral/Spiral/obj/Debug/Spiral.pdb
